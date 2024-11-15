@@ -1,5 +1,4 @@
-# Automated_Process_Monitor
-CASE STUDY
+# Case Study
 
 SUMMARY:
 This simple program was created to monitor the state of a critical business application, and correct that status. This increased IT efficiancy, decreased client down-time, and provided rapid resolution.
